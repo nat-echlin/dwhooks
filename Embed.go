@@ -1,4 +1,4 @@
-package dwhooks
+package dwh
 
 import "time"
 
