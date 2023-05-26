@@ -1,3 +1,3 @@
-module github.com/nat-echlin/nat-hooks
+module github.com/nat-echlin/dwhooks
 
 go 1.19
