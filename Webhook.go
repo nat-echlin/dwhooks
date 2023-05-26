@@ -1,4 +1,4 @@
-package main
+package dwh
 
 // https://discord.com/developers/docs/resources/webhook
 
